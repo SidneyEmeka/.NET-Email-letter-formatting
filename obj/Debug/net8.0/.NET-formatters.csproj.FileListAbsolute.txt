@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\bin\Debug\net8.0\.NET-formatters.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\bin\Debug\net8.0\.NET-formatters.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\bin\Debug\net8.0\.NET-formatters.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\bin\Debug\net8.0\.NET-formatters.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\bin\Debug\net8.0\.NET-formatters.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\refint\.NET-formatters.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\.NET-formatters.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-formatters\obj\Debug\net8.0\ref\.NET-formatters.dll
